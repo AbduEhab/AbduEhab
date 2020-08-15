@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I'm a Mechatronics Engineering student who is addicted to Writing code!!
 - 💪 I’m currently working on a small 2D Game Engine!
 - 🔬 I’m currently learning React to make a website for showcasing my Game Engine.
-- 📅 2020 Goals: Contribute more to Open Source projects
+- 📅 2020 Goals: Aquire N5 in Japanese and A2 in German!
 - 💽 Fun fact: I love to draw and play the guitar
 
 ### Connect with me:
