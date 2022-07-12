@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Abdelrahman Ehab - aka [AbduEhab] 👋
 
-## I'm a Mechatronics Engineering student who is addicted to Writing code!!
-- 💪 I’m working on a small 2D Game Engine!
-- 🔬 I’m currently learning React to make a website for showcasing my Game Engine.
+## I'm a Mechatronics Engineer who is addicted to Writing code!!
+- 💪 I’m working on a small game in UE5!
+- 🔬 I’m work on small git projects in my free time.
 - 💽 Fun fact: I love to draw and play the guitar.
 - 👯 Addictions: Music and Video Games!
 
