@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ---
 
-[![AbduEhab's github stats](https://github-readme-stats.vercel.app/api?username=AbduEhab&show_icons=true&count_private=true)](https://github-readme-stats-neon-nine.vercel.app)
+[![AbduEhab's github stats](https://github-readme-stats-seven-silk-15.vercel.app?username=AbduEhab&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduEhab&langs_count=6)](https://github-readme-stats-neon-nine.vercel.app)
+[![Top Langs](https://github-readme-stats-seven-silk-15.vercel.app/top-langs/?username=AbduEhab&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/itsabduehab
 [linkedin]: https://www.linkedin.com/in/abdelrahman-ehab-ab68a91b2/
@@ -70,4 +70,3 @@ Here are some ideas to get you started:
 [Git]: https://github.com/topics/git
 [GitHub]: https://github.com/topics/github
 [Linux]: https://github.com/topics/linux
-
