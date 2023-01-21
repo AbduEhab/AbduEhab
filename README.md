@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a Mechatronics Engineer who is addicted to Writing code!!
 - 💪 I’m working on a small game in UE5!
-- 🔬 I’m work on small git projects in my free time.
+- 🔬 I work on small git projects in my free time.
 - 💽 Fun fact: I love to draw and play the guitar.
 - 👯 Addictions: Music and Video Games!
 
