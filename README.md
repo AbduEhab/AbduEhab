@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-3979fd.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F7A41D.svg?style=for-the-badge&logoColor=white)visualstudiocode
-![VsCode](https://img.shields.io/badge/VsCode-%007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/c-2b63d6.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-2b63d6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-d6802b.svg?style=for-the-badge&logoColor=white)visualstudiocode
+![VsCode](https://img.shields.io/badge/VsCode-3499ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge&logo=createreactapp&logoColor=white)
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
