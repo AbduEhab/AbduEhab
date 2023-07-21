@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsabduehab)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter](https://img.shields.io/badge/Twitter-1da1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsabduehab)
+[![linkedin](https://img.shields.io/badge/linkedin-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ehab-ab68a91b2/)
 
 <br />
 
@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-pink-one.vercel.app/api/top-langs/?username=AbduEhab&hide=c&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/itsabduehab
 [linkedin]: https://www.linkedin.com/in/abdelrahman-ehab-ab68a91b2/
 [Java]: https://github.com/topics/java
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
