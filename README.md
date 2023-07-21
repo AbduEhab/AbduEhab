@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-3979fd.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F7A41D.svg?style=for-the-badge&logoColor=white)visualstudiocode
 ![VsCode](https://img.shields.io/badge/VsCode-%007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
