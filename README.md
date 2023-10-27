@@ -14,46 +14,92 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Abdelrahman Ehab - aka [AbduEhab] 👋
 
-## I'm a Mechatronics Engineer who is addicted to Writing code!!
-- 💪 I’m working on a small game in UE5!
-- 🔬 I work on small git projects in my free time.
-- 💽 Fun fact: I love to draw and play the guitar.
-- 👯 Addictions: Music and Video Games!
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=150&color=88c1d1&multiline=true&width=500&height=80&lines=Abdelrahman+Ehab+%2D+aka+%5BAbduEhab%5D;Mechatronics+X+Embedded+Systems+Engineer;Game+Engines+%7C+Raytracers+%7C+Other+Fun+Stuff!" alt="Typing SVG" /></a>
 
-### Connect with me:
+<br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1da1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsabduehab)
-[![linkedin](https://img.shields.io/badge/linkedin-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ehab-ab68a91b2/)
+<a href="https://twitter.com/itsabduehab">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2.svg?style=flat-square&logo=twitter&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/abdelrahman-ehab-ab68a91b2/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:abdu.ehab0@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/> 
+
+<a href="https://github.com/abduehab">
+    <img src="https://github-stats-alpha.vercel.app/api?username=abduehab&cc=2f3540&tc=88c1d1&ic=fff&bc=0000">
+</a>
+
+<a href="https://github.com/abduehab">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbduEhab&theme=nord_dark">
+</a>
+</p>
+
+<br />
+
+<h2 align="center" style="font-size: 26px">Languages and Tools</h2>
 
 <br />
 
-### Languages and Tools:
+<p align="center">
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-2b63d6.svg?style=for-the-badge&logo=c&logoColor=white)
-[![C++](https://img.shields.io/badge/c++-2b63d6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
-[![Java](https://img.shields.io/badge/Java-d6802b.svg?style=for-the-badge)](https://github.com/topics/java)
-[![VsCode](https://img.shields.io/badge/VsCode-3499ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/topics/visual-studio-code)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=white)]([https://github.com/topics/java](https://github.com/topics/javascript))
-[![TypeScript](https://img.shields.io/badge/TypeScript-2572c0.svg?style=for-the-badge&logo=typescript&logoColor=white)]([https://github.com/topics/java](https://github.com/topics/typescript))
-[![React](https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge)](https://github.com/topics/react)
-[![MYSQL](https://img.shields.io/badge/MYSQL-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/topics/mysql)
-[![Git](https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/topics/git)
-[![archlinux](https://img.shields.io/badge/Arch+Linux-5498dd.svg?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![OpenGl](https://img.shields.io/badge/OpenGl-2572c0.svg?style=for-the-badge&logo=opengl&logoColor=white)](https://github.com/topics/opengl)
-[![CMake](https://img.shields.io/badge/CMake-fd4949.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-[![Unreal Engine](https://img.shields.io/badge/UE5-4a4a4a.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/en-US)
+<a href="https://github.com/topics/rust">
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+</a>
+<a href="https://github.com/topics/c">
+    <img src="https://img.shields.io/badge/c-2b63d6.svg?style=for-the-badge&logo=c&logoColor=white">
+</a>
+<a href="https://github.com/topics/cpp">
+    <img src="https://img.shields.io/badge/c++-2b63d6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://github.com/topics/java">
+    <img src="https://img.shields.io/badge/Java-d6802b.svg?style=for-the-badge">
+</a>
+<a href="https://github.com/topics/visual-studio-code">
+    <img src="https://img.shields.io/badge/VsCode-3499ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+<a href="https://github.com/topics/javascript">
+    <img src="https://img.shields.io/badge/JavaScript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=white">
+</a>
+<a href="https://github.com/topics/typescript">
+    <img src="https://img.shields.io/badge/TypeScript-2572c0.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</a><br>
+<a href="https://github.com/topics/react">
+    <img src="https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge">
+</a>
+<a href="https://github.com/topics/mysql">
+    <img src="https://img.shields.io/badge/MYSQL-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://github.com/topics/git">
+    <img src="https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch+Linux-5498dd.svg?style=for-the-badge&logo=archlinux&logoColor=white">
+</a>
+<a href="https://github.com/topics/opengl">
+    <img src="https://img.shields.io/badge/OpenGl-2572c0.svg?style=for-the-badge&logo=opengl&logoColor=white">
+</a>
+<a href="https://cmake.org/">
+    <img src="https://img.shields.io/badge/CMake-fd4949.svg?style=for-the-badge&logo=cmake&logoColor=white">
+</a>
+<a href="https://www.unrealengine.com/en-US">
+    <img src="https://img.shields.io/badge/UE5-4a4a4a.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+</a>
 
-<br />
-<br />
+<br>
 
----
+<a href="https://github.com/abduehab">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbduEhab&theme=nord_dark&exclude=CMake">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbduEhab&theme=nord_dark&exclude=CMake">
+</a>
+</p>
 
-[![AbduEhab's github stats](https://github-readme-stats-pink-one.vercel.app/api?username=AbduEhab&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-pink-one.vercel.app/api/top-langs/?username=AbduEhab&hide=c&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [TypeScript]: https://github.com/topics/typescript
