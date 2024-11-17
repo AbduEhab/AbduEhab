@@ -64,15 +64,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/visual-studio-code">
     <img src="https://img.shields.io/badge/VsCode-3499ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </a>
-<a href="https://github.com/topics/javascript">
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=white">
-</a>
-<a href="https://github.com/topics/typescript">
-    <img src="https://img.shields.io/badge/TypeScript-2572c0.svg?style=for-the-badge&logo=typescript&logoColor=white">
-</a><br>
-<a href="https://github.com/topics/react">
-    <img src="https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge">
-</a>
+<br>
 <a href="https://github.com/topics/mysql">
     <img src="https://img.shields.io/badge/MYSQL-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
